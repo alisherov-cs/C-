@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yXRqWW32UeE6AGeJ3VEdtHrJ1B5AifJ1SpAhlgpbN9zPu71LN3XeC28SmqO3zCazqBOT++ot5gR2qXEMPEXyxA==",
+  "success": true,
+  "projectFilePath": "/home/sadullaalisherov/career/c#/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/sadullaalisherov/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.30/microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
